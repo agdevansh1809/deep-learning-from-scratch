@@ -10,3 +10,4 @@ core architectures from scratch (NumPy) before moving to PyTorch implementations
 | 1 | Perceptron fundamentals | Perceptron from scratch in NumPy (Rosenblatt rule + gradient descent), 100% acc on toy 2D dataset |
 | 2 | Backprop + gradient descent | Manual 2-layer sigmoid net in NumPy, XOR + make_moons (~96.7% acc) |
 | 3 | ANNs in PyTorch | Rebuilt Day 2 net in PyTorch, MNIST ANN, 97.88% test accuracy |
+| 4 | Convolution mechanics (kernels, stride, padding, parameter sharing) | Implemented conv2d() from scratch in NumPy |
