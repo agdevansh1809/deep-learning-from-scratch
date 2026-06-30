@@ -8,7 +8,7 @@
 - Receptive fields
 
 ## What was built
-A CNN for CIFAR-10 classification in PyTorch, built and iterated on from a 2-conv-layer baseline up to a 3-conv-layer architecture with BatchNorm, data augmentation, and a learning rate schedule.
+A CNN for CIFAR-10 classification in PyTorch, built and iterated on from a 2-conv-layer baseline up to a 3-conv-layer architecture with BatchNorm, data augmentation, and a learning rate schedule. No use of resnet or any other such models.
 
 **Final architecture:**
 - Conv(3→32, k=3) → BatchNorm → ReLU → MaxPool(2,2)
