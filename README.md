@@ -12,3 +12,4 @@ core architectures from scratch (NumPy) before moving to PyTorch implementations
 | 3 | ANNs in PyTorch | Rebuilt Day 2 net in PyTorch, MNIST ANN, 97.88% test accuracy |
 | 4 | Convolution mechanics (kernels, stride, padding, parameter sharing) | Implemented conv2d() from scratch in NumPy |
 | 5 | CNN Architectures (CIFAR-10) | Built CNN from scratch (Conv→BatchNorm→ReLU ×3, augmentation, LR scheduler) — 82.56% test accuracy, near ceiling for a plain CNN without skip connections|
+| 6 | Transfer Learning | Trained a ResNet18 on images of cats and dogs for classification achieving best accuracy of 97.14% |
